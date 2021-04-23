@@ -21,8 +21,24 @@ In order to play this exciting game, all you would require is your mobile phone 
 8. TROUBLRSHOOTING TIPS
 9. CREDITS AND ACKNOWLEDGEMENTS
 
-INSTALLATION:
+CONFIGURATION INSTRUCTIONS:
 
-This app is compatible for both android and ios devices. You simply have to go on Play Store/ App Store and type Tic Tac Toe game in the search bar. You will find the game with the above logo. Then you can click on **install** (for android devices) or **get** (for ios devices) button in order to get the app.
+For this application to run properly on your system you would require the latest version of Android Studio.
 
 OPERATING INSTRUCTIONS:
+For operating, open your android studio application. On the top left corner click on File-> New-> New Project.
+
+![image](https://user-images.githubusercontent.com/83088348/115938474-cdb9ec00-a468-11eb-88b7-717ac3757c1d.png)
+
+ There, on the pop-up window select the Empty Activity option and then click on the Next button.
+ 
+ ![image](https://user-images.githubusercontent.com/83088348/115938487-da3e4480-a468-11eb-964d-e009cad56646.png)
+
+Then, name the application according to you. Select the language Java from the drop-down menu. And, make sure you have the correct SDK. Then after clicking the Finish button you will be directed to the window.
+
+ ![image](https://user-images.githubusercontent.com/83088348/115938491-e0ccbc00-a468-11eb-8a8f-b13ce6b2ad5e.png)
+
+
+
+
+
