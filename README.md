@@ -21,11 +21,12 @@ In order to play this exciting game, all you would require is your mobile phone 
 8. TROUBLRSHOOTING TIPS
 9. CREDITS AND ACKNOWLEDGEMENTS
 
-CONFIGURATION INSTRUCTIONS:
+**CONFIGURATION INSTRUCTIONS:**
 
 For this application to run properly on your system you would require the latest version of Android Studio.
 
-OPERATING INSTRUCTIONS:
+**OPERATING INSTRUCTIONS:**
+
 For operating, open your android studio application. On the top left corner click on File-> New-> New Project.
 
 ![image](https://user-images.githubusercontent.com/83088348/115938474-cdb9ec00-a468-11eb-88b7-717ac3757c1d.png)
