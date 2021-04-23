@@ -39,6 +39,12 @@ Then, name the application according to you. Select the language Java from the d
 
  ![image](https://user-images.githubusercontent.com/83088348/115938491-e0ccbc00-a468-11eb-8a8f-b13ce6b2ad5e.png)
 
+**MANIFEST (LIST OF FILES)**:
+![image](https://user-images.githubusercontent.com/83088348/115939719-0e1b6900-a46d-11eb-8d1d-6defde255e31.png)
+![image](https://user-images.githubusercontent.com/83088348/115939766-29867400-a46d-11eb-950f-eca9f938665d.png)
+
+
+
 
 
 
