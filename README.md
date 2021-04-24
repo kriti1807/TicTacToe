@@ -37,6 +37,8 @@ For this application to run properly on your system you would require the latest
 
 **2.INSTALLATION INSTRUCTIONS:**
 
+For installation, you first would have to download the zip file from my repository. Then extract all the files using any zip extractor. Now, open your Android Studio App. There, go to Files-> New-> Import Project. After that you should be able to select your desired folder from there and your app should run properly.
+
 **3.OPERATING INSTRUCTIONS:**
 
 For operating, open your android studio application. On the top left corner click on File-> New-> New Project.
@@ -65,6 +67,8 @@ kchawla@lakeheadu.ca
 
 **6.BUG LIST**
 
+
+
 **7.TROUBLRSHOOTING TIPS**
 
 If you are facing any issues with the installation and compilation of the application, first I would suggest you to look out for  minor errors are closing of a bracket or something like that. If, there are no minors errors then, you must check the SDK files and the version of your android studio as some older versions do not support specific functions used in the programming. I have used Android Studio 4.1.3 version, so you have you make sure you have using this version and not older. Also, for the SDK files, you would first have to go to tools -> SDK Manager-> then a window will pop up. In that pop-up window click on Android SDK and there you must have either of the below packages installed:
@@ -82,6 +86,14 @@ Android 10.0(Q)
 Here is also a link https://developer.android.com/studio/troubleshoot which would help you to get more clear idea if you are facing any problem.
 
 **8.CREDITS AND ACKOWLEDGEMENT**
+
+The credits for my application goes to Dr. Trevor Tomesh. As he provided me with in-depth knowledge about mobile computing, how to build a mobile app and various fascinating fatcs and uses of android studio. 
+
+I acknowledge to the fact that I have learnt a lot under my profesor's guidance. I express my heartfull indebtness and owe a deep sense of gratitude to my professor Dr. Tomesh of Lakehead University for his sincere inspiration in completion of this project.
+
+The study has helped me to explore more knowledge related to my project and I am sure it will help me in my future.
+
+
 
 
 
