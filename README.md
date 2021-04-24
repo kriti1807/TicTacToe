@@ -1,4 +1,6 @@
-Tic Tac Toe is an exciting and competitive two player game. The players alternatively put X&#39;s and O&#39;s in the grid in try to make a sequence of 3 consecutive X&#39;s or O&#39;s horizontally, vertically or, diagonally in order to win. ![](RackMultipart20210423-4-wa5yd2_html_4ffe2ecf2a521dc4.png)
+Tic Tac Toe is an exciting and competitive two player game. The players alternatively put X&#39;s and O&#39;s in the grid in try to make a sequence of 3 consecutive X&#39;s or O&#39;s horizontally, vertically or, diagonally in order to win.
+
+![](RackMultipart20210423-4-wa5yd2_html_4ffe2ecf2a521dc4.png)
 ![image](https://user-images.githubusercontent.com/83088348/115928674-8295de00-a454-11eb-803a-9447ee3a614f.png)
 
 **ABOUT THE APP**
@@ -79,6 +81,8 @@ Android 10.0(Q)
 ![image](https://user-images.githubusercontent.com/83088348/115941030-aae00580-a471-11eb-80f0-c54b52cd175f.png)
 
 ![image](https://user-images.githubusercontent.com/83088348/115941050-c5b27a00-a471-11eb-8267-b7ba4b5419d8.png)
+
+Here is also a link https://developer.android.com/studio/troubleshoot which would help you to get more clear idea if you are facing any problem.
 
 **9.CREDITS AND ACKOWLEDGEMENT**
 
