@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=WUX0hB1u0vE -> this link will give you some tips
 
 **1.CONFIGURATION INSTRUCTIONS:**
 
-For this application to run properly on your system you would require the latest version of Android Studio.
+For this application to run properly on your system you would require the latest version of Android Studio. You must be having latest SDK file and NDK tools. I have used API16: Android Jelly Beans(4.1).
 
 **2.INSTALLATION INSTRUCTIONS:**
 
