@@ -57,18 +57,15 @@ Then, name the application according to you. Select the language Java from the d
 
 ![image](https://user-images.githubusercontent.com/83088348/115940325-12e11c80-a46f-11eb-82b4-05c830297e26.png)
 
-
-**5.COPYRIGHT INFORMATION**
-
-**6.CONTACT INFORMATION**
+**5.CONTACT INFORMATION**
 
 For any problem regarding the installation or compilation of the above app or any problem that you are facing, you can contact me on my email id i.e.,
 
 kchawla@lakeheadu.ca
 
-**7.BUG LIST**
+**6.BUG LIST**
 
-**8.TROUBLRSHOOTING TIPS**
+**7.TROUBLRSHOOTING TIPS**
 
 If you are facing any issues with the installation and compilation of the application, first I would suggest you to look out for  minor errors are closing of a bracket or something like that. If, there are no minors errors then, you must check the SDK files and the version of your android studio as some older versions do not support specific functions used in the programming. I have used Android Studio 4.1.3 version, so you have you make sure you have using this version and not older. Also, for the SDK files, you would first have to go to tools -> SDK Manager-> then a window will pop up. In that pop-up window click on Android SDK and there you must have either of the below packages installed:
 
@@ -84,7 +81,7 @@ Android 10.0(Q)
 
 Here is also a link https://developer.android.com/studio/troubleshoot which would help you to get more clear idea if you are facing any problem.
 
-**9.CREDITS AND ACKOWLEDGEMENT**
+**8.CREDITS AND ACKOWLEDGEMENT**
 
 
 
