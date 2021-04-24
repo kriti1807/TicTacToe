@@ -3,9 +3,11 @@ Tic Tac Toe is an exciting and competitive two player game. The players alternat
 ![](RackMultipart20210423-4-wa5yd2_html_4ffe2ecf2a521dc4.png)
 ![image](https://user-images.githubusercontent.com/83088348/115928674-8295de00-a454-11eb-803a-9447ee3a614f.png)
 
+
 **ABOUT THE APP**
 
 This app is designed to free the user from the hassle of pen and paper while playing this game. It is basically a two-player classic game, in which one player gets an X and the other player get O to play. It has 9 boxes which are represented as a 3x3 grid. In order to win, the player has to make a sequence of three consecutive X&#39;s or three consecutive O&#39;s either horizontally or vertically or diagonally. Also, only one player can win as it is a two-player game only. But, if no one was able to make their sequence, then the game would end up with a tie.
+
 
 **HOW TO PLAY:**
 
@@ -19,6 +21,7 @@ https://www.youtube.com/watch?v=5SdW0_wTX5c -> this link has a video tutuorial o
 
 https://www.youtube.com/watch?v=WUX0hB1u0vE -> this link will give you some tips on winning this game.
 
+
 **TABLE OF CONTENTS**
 
 1. CONFIGURATION INSTRUCTIONS
@@ -31,13 +34,16 @@ https://www.youtube.com/watch?v=WUX0hB1u0vE -> this link will give you some tips
 8. CREDITS AND ACKNOWLEDGEMENTS
 9. OUTPUT SCREENSHOTS OF THE APLLICATION
 
+
 **1.CONFIGURATION INSTRUCTIONS:**
 
 For this application to run properly on your system you would require the latest version of Android Studio. You must be having latest SDK file and NDK tools. I have used API16: Android Jelly Beans(4.1).
 
+
 **2.INSTALLATION INSTRUCTIONS:**
 
 For installation, you first would have to download the zip file from my repository. Then extract all the files using any zip extractor. Now, open your Android Studio App. There, go to Files-> New-> Import Project. After that you should be able to select your desired folder from there and your app should run properly.
+
 
 **3.OPERATING INSTRUCTIONS:**
 
@@ -53,11 +59,13 @@ Then, name the application according to you. Select the language Java from the d
 
  ![image](https://user-images.githubusercontent.com/83088348/115938491-e0ccbc00-a468-11eb-8a8f-b13ce6b2ad5e.png)
 
+
 **4.MANIFEST (LIST OF FILES)**:
 
 ![image](https://user-images.githubusercontent.com/83088348/115940314-0c52a500-a46f-11eb-938e-e91a2dfdb052.png)
 
 ![image](https://user-images.githubusercontent.com/83088348/115940325-12e11c80-a46f-11eb-82b4-05c830297e26.png)
+
 
 **5.CONTACT INFORMATION**
 
@@ -65,17 +73,19 @@ For any problem regarding the installation or compilation of the above app or an
 
 kchawla@lakeheadu.ca
 
+
 **6.BUG LIST**
 
 To avoid any kind of bugs you have to ensure to use the latest version of Android Studio.
 
-This link will provide information on common kinds bugs that you may face like, run time or compile time error, invalud token or not supporting the file and many more. It will also give you information on how to fix them.
+This link will provide information on common kinds bugs that you may face like, run time or compile time error, invalid token or not supporting the file and many more. It will also give you information on how to fix them.
 
 https://www.airpair.com/android/bugs-annoying-android-developers
 
 Here is a link which would be helful in reporting a bug
 
 https://developer.android.com/studio/report-bugs.html
+
 
 **7.TROUBLRSHOOTING TIPS**
 
@@ -93,6 +103,7 @@ Android 10.0(Q)
 
 Here is also a link https://developer.android.com/studio/troubleshoot which would help you to get more clear idea if you are facing any problem.
 
+
 **8.CREDITS AND ACKOWLEDGEMENT**
 
 The credits for my application goes to Dr. Trevor Tomesh. As he provided me with in-depth knowledge about mobile computing, how to build a mobile app and various fascinating fatcs and uses of android studio. 
@@ -101,7 +112,8 @@ I acknowledge to the fact that I have learnt a lot under my profesor's guidance.
 
 The study has helped me to explore more knowledge related to my project and I am sure it will help me in my future.
 
-**OUTPUT SCREENSHOTS OF THE APPLICATION**
+
+**9.OUTPUT SCREENSHOTS OF THE APPLICATION**
 
 ![image](https://user-images.githubusercontent.com/83088348/115945703-e20ee080-a48a-11eb-9141-8c9c5995c93f.png)
 
