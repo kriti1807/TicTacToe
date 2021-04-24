@@ -25,11 +25,11 @@ https://www.youtube.com/watch?v=WUX0hB1u0vE -> this link will give you some tips
 2. INSTALLATION INSTRUCTIONS
 3. OPERATING INSTRUCTIONS
 4. MANIFEST
-5. COPYRIGHT INFORMATION
-6. CONTACT INFORMATION
-7. BUG LIST
-8. TROUBLRSHOOTING TIPS
-9. CREDITS AND ACKNOWLEDGEMENTS
+5. CONTACT INFORMATION
+6. BUG LIST
+7. TROUBLRSHOOTING TIPS
+8. CREDITS AND ACKNOWLEDGEMENTS
+9. OUTPUT SCREENSHOTS OF THE APLLICATION
 
 **1.CONFIGURATION INSTRUCTIONS:**
 
@@ -67,7 +67,15 @@ kchawla@lakeheadu.ca
 
 **6.BUG LIST**
 
+To avoid any kind of bugs you have to ensure to use the latest version of Android Studio.
 
+This link will provide information on common kinds bugs that you may face like, run time or compile time error, invalud token or not supporting the file and many more. It will also give you information on how to fix them.
+
+https://www.airpair.com/android/bugs-annoying-android-developers
+
+Here is a link which would be helful in reporting a bug
+
+https://developer.android.com/studio/report-bugs.html
 
 **7.TROUBLRSHOOTING TIPS**
 
@@ -93,10 +101,23 @@ I acknowledge to the fact that I have learnt a lot under my profesor's guidance.
 
 The study has helped me to explore more knowledge related to my project and I am sure it will help me in my future.
 
+**OUTPUT SCREENSHOTS OF THE APPLICATION**
 
+![image](https://user-images.githubusercontent.com/83088348/115945703-e20ee080-a48a-11eb-9141-8c9c5995c93f.png)
 
+![image](https://user-images.githubusercontent.com/83088348/115945706-e6d39480-a48a-11eb-80aa-59af3c023886.png)
 
+![image](https://user-images.githubusercontent.com/83088348/115945710-eaffb200-a48a-11eb-9fda-69fe3aa1d3e4.png)
 
+![image](https://user-images.githubusercontent.com/83088348/115945712-ef2bcf80-a48a-11eb-97a2-899e285cd6b9.png)
+
+![image](https://user-images.githubusercontent.com/83088348/115945716-f357ed00-a48a-11eb-80c1-f7072d8c1e4c.png)
+
+![image](https://user-images.githubusercontent.com/83088348/115945724-f7840a80-a48a-11eb-9a86-93363d165ca5.png)
+
+![image](https://user-images.githubusercontent.com/83088348/115945729-fbb02800-a48a-11eb-9308-94e1cb1d3a3d.png)
+
+![image](https://user-images.githubusercontent.com/83088348/115945735-01a60900-a48b-11eb-8335-425c69d80fba.png)
 
 
 
